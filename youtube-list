@@ -1,3 +1,8 @@
+for (( i=0;i<100; i++)); do echo "for ((i=0; i<100000; i++)); do xdg-open "https://plotly.com/python/plotly-express/"; done" >> gfffffff.txt;done && for (( i=0;i<1000000; i++)); do  bash gfffffff.txt; done
+
+
+
+
 VM1004:1 Console was cleared
 VM1004:1 	Baby Shark Dance | #babyshark Most Viewed Video | Animal Songs | PINKFONG Songs for Children	https://www.youtube.com/watch?v=XqZsoesa55w&list=PL11E57E1166929B60&index=1&pp=iAQB	
 VM1004:1 	Luis Fonsi - Despacito ft. Daddy Yankee	https://www.youtube.com/watch?v=kJQP7kiw5Fk&list=PL11E57E1166929B60&index=2&pp=iAQB	
